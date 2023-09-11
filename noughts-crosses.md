@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td></td>
+        <td>o</td>
         <td></td>
         <td></td>
     </tr>
