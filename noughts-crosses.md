@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td></td>
-        <td></td>
+        <td>0</td>
         <td></td>
     </tr>
     <tr>
